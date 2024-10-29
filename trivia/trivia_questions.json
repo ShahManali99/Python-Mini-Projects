@@ -1,0 +1,20 @@
+{
+    "Geography": [
+        {"question": "What is the capital of France?", "answer": "Paris"},
+        {"question": "Which river is the longest in the world?", "answer": "Nile"},
+        {"question": "What is the largest country by land area?", "answer": "Russia"},
+        {"question": "On which continent is the Sahara Desert located?", "answer": "Africa"}
+    ],
+    "Math": [
+        {"question": "What is 7 x 8?", "answer": "56"},
+        {"question": "What is the square root of 64?", "answer": "8"},
+        {"question": "What is 15% of 200?", "answer": "30"},
+        {"question": "What is the next number in the sequence: 2, 4, 8, 16, ...?", "answer": "32"}
+    ],
+    "Literature": [
+        {"question": "Who wrote 'To Kill a Mockingbird'?", "answer": "Harper Lee"},
+        {"question": "In which play does the character Hamlet appear?", "answer": "Hamlet"},
+        {"question": "Who is the author of the Harry Potter series?", "answer": "J.K. Rowling"},
+        {"question": "What is the name of the hobbit in 'The Lord of the Rings'?", "answer": "Frodo Baggins"}
+    ]
+}
